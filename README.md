@@ -246,4 +246,4 @@ This repository serves as the official landing page for XDefiant. The software i
 **Get the most recent version of XDefiant today!**
 
 ---
-**Last updated:** 2026-11-06 20:46:05 UTC
+**Last updated:** 2026-11-07 00:46:40 UTC
